@@ -1,2 +1,10 @@
-# tool-project2-2023-CSVGen
-A simple tool to create a .csv file containing pseudorandom values
+# CSVGen
+A tool I wrote during a project to add values to avoid
+using some kind of generated image in place of a graph
+and instead pull generated values from the projects
+database.
+<br>
+### Values in the file
+![Image of the data](/screenshots/cap-1.JPG)
+So with other tools we could move these valus to
+the database.
