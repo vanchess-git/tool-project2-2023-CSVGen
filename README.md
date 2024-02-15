@@ -5,6 +5,6 @@ and instead pull generated values from the projects
 database.
 <br>
 ### Values in the file
-![Image of the data](/screenshots/cap-1.JPG)
+![Image of the data](/screenshots/cap-1.JPG)<br>
 So with other tools we could move these valus to
 the database.
